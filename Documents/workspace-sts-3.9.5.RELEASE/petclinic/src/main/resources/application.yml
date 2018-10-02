@@ -1,2 +1,6 @@
 server:
   port: 8070
+logging:
+  level:
+    org.springframework.web: debug
+  file: petclinic.log
