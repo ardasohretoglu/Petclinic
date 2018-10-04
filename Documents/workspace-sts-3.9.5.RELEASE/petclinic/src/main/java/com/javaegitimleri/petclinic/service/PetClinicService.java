@@ -2,6 +2,7 @@ package com.javaegitimleri.petclinic.service;
 
 import java.util.List;
 
+import com.javaegitimleri.petclinic.exception.OwnerNotFoundException;
 import com.javaegitimleri.petclinic.model.Owner;
 
 public interface PetClinicService {
@@ -15,5 +16,7 @@ public interface PetClinicService {
 	void createOwner(Owner owner);
 	
 	void update(Owner owner);
+	
+	void deleteOwner(Long id);
 
 }

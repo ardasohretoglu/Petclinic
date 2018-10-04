@@ -1,2 +1,12 @@
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/PetClinicConfiguration.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/dao/mem/OwnerRepositoryInMemoryImpl.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/service/PetClinicService.java
 /home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/PetClinicApplication.java
-/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/HelloWorld.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/model/Pet.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/dao/PetRepository.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/PetClinicProperties.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/dao/ownerRepository.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/exception/OwnerNotFoundException.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/web/PetClinicController.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/service/PetClinicServiceImpl.java
+/home/arda/Documents/workspace-sts-3.9.5.RELEASE/petclinic/src/main/java/com/javaegitimleri/petclinic/model/Owner.java
